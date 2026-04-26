@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phamt\\source\\repos\\lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\FACT TABLE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|solutionrelative:lab3\\FACT TABLE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\FACT TABLE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3\\FACT TABLE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|solutionrelative:lab3\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|solutionrelative:lab3\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Superstore DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|solutionrelative:lab3\\Superstore DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Superstore DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3\\Superstore DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|solutionrelative:lab3\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Shipping.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{7F5F5E74-DE29-8B34-2718-A211A14E61F9}|lab3\\lab3.dwproj|solutionrelative:lab3\\Dim Shipping.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Shipping.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab3\\Dim Shipping.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,22 +43,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FACT TABLE.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\FACT TABLE.dim",
+              "Title": "FACT TABLE.dim [XML]",
+              "DocumentMoniker": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\FACT TABLE.dim",
               "RelativeDocumentMoniker": "lab3\\FACT TABLE.dim",
-              "ToolTip": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\FACT TABLE.dim [Design]",
-              "RelativeToolTip": "lab3\\FACT TABLE.dim [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\FACT TABLE.dim [XML]",
+              "RelativeToolTip": "lab3\\FACT TABLE.dim [XML]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-16T08:02:26.353Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [XML]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dim Product.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Product.dim",
+              "DocumentMoniker": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Product.dim",
               "RelativeDocumentMoniker": "lab3\\Dim Product.dim",
-              "ToolTip": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Product.dim [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Product.dim [Design]",
               "RelativeToolTip": "lab3\\Dim Product.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-16T08:02:20.872Z",
@@ -66,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dim Location.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Location.dim",
+              "DocumentMoniker": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Location.dim",
               "RelativeDocumentMoniker": "lab3\\Dim Location.dim",
-              "ToolTip": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Location.dim [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Location.dim [Design]",
               "RelativeToolTip": "lab3\\Dim Location.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-16T08:02:15.419Z",
@@ -80,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Superstore DB.cube [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Superstore DB.cube",
+              "DocumentMoniker": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Superstore DB.cube",
               "RelativeDocumentMoniker": "lab3\\Superstore DB.cube",
-              "ToolTip": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Superstore DB.cube [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Superstore DB.cube [Design]",
               "RelativeToolTip": "lab3\\Superstore DB.cube [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-16T08:01:57.372Z",
@@ -92,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Dim Customer.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Customer.dim",
+              "DocumentMoniker": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Customer.dim",
               "RelativeDocumentMoniker": "lab3\\Dim Customer.dim",
-              "ToolTip": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Customer.dim [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Customer.dim [Design]",
               "RelativeToolTip": "lab3\\Dim Customer.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-16T08:02:10.268Z",
@@ -104,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Dim Shipping.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Shipping.dim",
+              "DocumentMoniker": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Shipping.dim",
               "RelativeDocumentMoniker": "lab3\\Dim Shipping.dim",
-              "ToolTip": "C:\\Users\\phamt\\source\\repos\\lab3\\lab3\\Dim Shipping.dim [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Documents\\BI_DSS\\lab3\\lab3\\Dim Shipping.dim [Design]",
               "RelativeToolTip": "lab3\\Dim Shipping.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-04-16T08:02:00.997Z",
